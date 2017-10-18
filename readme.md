@@ -41,4 +41,3 @@ python __main__.py --help
 # Todo List
 
 - Spofiyart should cache artworks more permenantly to avoid redownloading wherever possible.
-- It doesn't make much sense to require the -b option - why would you want to go digging around in the cache folder.
